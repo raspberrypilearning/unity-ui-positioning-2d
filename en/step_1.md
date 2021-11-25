@@ -1,59 +1,11 @@
-## Introduction
+You can also click '2D' at the top of the Scene view to see the text. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Click on the Canvas containing your TextMeshPro in the Hierarchy, make sure it is active, and use 'Shift-F' to focus on it. 
 
-### What you will make
+Click on your UI Object (TextMeshPro, Panel, Button) in the Hierarchy and then drag the it into position in the Scene view. 
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![2D Scene view of the Canvas and a text object.](images/canvas-screen-view.png){:max-width=400px;}
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Click 2D again to return to 3D mode. You may also want to disable the Canvas if it was previously disabled.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** When positioning buttons in 2D view, make sure you have the Button selected, not just it's text child object.
