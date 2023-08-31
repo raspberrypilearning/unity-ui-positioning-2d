@@ -1,11 +1,11 @@
-You can also click **2D** at the top of the Scene view to see the text.
+Je kunt ook op **2D** klikken bovenaan de scèneweergave om de tekst te bekijken.
 
-Click on the **Canvas** containing your TextMeshPro in the Hierarchy window, make sure it is active, and use <kbd>Shift</kbd>+<kbd>F</kbd> to focus on it.
+Klik op het **Canvas** dat je TextMeshPro bevat in het Hierarchy venster, zorg ervoor dat het actief is en gebruik <kbd>Shift</kbd>+<kbd>F</kbd> om het te bekijken.
 
-Click on your **UI Object** (TextMeshPro, Panel, Button) in the Hierarchy window and then drag it into position in the Scene view.
+Klik op je **UI Object** (TextMeshPro, Panel, Button) in het Hierarchy venster en sleep het vervolgens naar de juiste positie in de scèneweergave.
 
-![2D Scene view of the Canvas and a text object.](images/canvas-screen-view.png){:max-width=400px;}
+![2D scèneweergave van het Canvas en een tekstobject.](images/canvas-screen-view.png){:max-width=400px;}
 
-Click **2D** again to return to 3D mode. You may also want to disable the Canvas if it was previously disabled.
+Klik nogmaals op **2D** om terug te keren naar de 3D-modus. Misschien wil je het Canvas ook uitschakelen als het eerder ook al was uitgeschakeld.
 
-**Tip:** When positioning buttons in 2D view, make sure you have the Button selected, not just its text child object.
+**Tip:** Zorg er bij het positioneren van knoppen in de 2D-weergave voor dat je ook de knop geselecteerd hebt, en niet alleen het onderliggende tekstobject.
